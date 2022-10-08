@@ -3,7 +3,7 @@
 프로젝트 세팅 참고:
 <https://github.com/ahastudio/CodingLife/tree/main/20220124/react-swc>
 
-라이브코딩 시작할 떄 코드: https://github.com/megaptera-kr/micro-store-tdd-feconf2022
+라이브코딩 시작할 때 코드: https://github.com/megaptera-kr/micro-store-tdd-feconf2022
 
 완성된 코드: https://github.com/megaptera-kr/micro-store-tdd-feconf2022/tree/complete
 
